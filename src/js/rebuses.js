@@ -891,7 +891,7 @@ const rebuses = [
   {
     symbols: ['🐝', '+', '🤭'],
     words: ['be', 'quiet'],
-    hint: ['Library Rules']
+    hint: ['#1 Library Rule']
   }
 ];
 
